@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Renders correctly without data 1`] = `
+Array [
+  <header
+    className="sc-kLLXSd czjGVG"
+  >
+    <p>
+      Taskie
+    </p>
+  </header>,
+  <div
+    className="sc-bczRLJ csPZuU"
+  >
+    <button
+      className="sc-dkzDqf kXPqhq"
+      onClick={[Function]}
+      type="button"
+    >
+      Add new Column
+    </button>
+    <div
+      className="sc-gsnTZi lefpqL"
+      data-rbd-droppable-context-id="0"
+      data-rbd-droppable-id="all-columns"
+    />
+  </div>,
+]
+`;

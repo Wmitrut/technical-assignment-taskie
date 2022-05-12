@@ -1,0 +1,44 @@
+{
+  "board": {
+    "tasks": {
+      "task-51662": {
+        "id": "task-51662",
+        "title": "Feed the cat",
+        "description": ""
+      },
+      "task-91309": {
+        "id": "task-91309",
+        "title": "Clean Cat Litter",
+        "description": ""
+      },
+      "task-99585": {
+        "id": "task-99585",
+        "title": "Clean Cat furr",
+        "description": ""
+      },
+      "task-31844": {
+        "id": "task-31844",
+        "title": "Clean cat bed",
+        "description": ""
+      }
+    },
+    "columns": {
+      "column-53585": {
+        "id": "column-53585",
+        "title": "To-Do",
+        "taskIds": ["task-51662", "task-91309"]
+      },
+      "column-36555": {
+        "id": "column-36555",
+        "title": "Doing",
+        "taskIds": ["task-99585"]
+      },
+      "column-88280": {
+        "id": "column-88280",
+        "title": "Done",
+        "taskIds": ["task-31844"]
+      }
+    },
+    "columnOrder": ["column-53585", "column-36555", "column-88280"]
+  }
+}

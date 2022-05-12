@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Renders header correctly 1`] = `
+<header
+  className="sc-bczRLJ eqqKqN"
+>
+  <p>
+    Taskie
+  </p>
+</header>
+`;

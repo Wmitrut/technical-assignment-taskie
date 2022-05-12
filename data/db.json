@@ -1,0 +1,68 @@
+{
+  "board": {
+    "tasks": {
+      "task-50978": {
+        "id": "task-50978",
+        "title": "Add cat food on the cat's plate",
+        "description": "Add dry food in the morning from the upper wardrobe. It should be the dry feed one, the meat flavored"
+      },
+      "task-19839": {
+        "id": "task-19839",
+        "title": "Clear the cat water pot",
+        "description": "Take the water pot and clear it with soap"
+      },
+      "task-43107": {
+        "id": "task-43107",
+        "title": "Re-fill The cat water fountain",
+        "description": "The water levels are low and that could result in a malfunction of the fountain. Please re-fill the water fountain"
+      },
+      "task-32929": {
+        "id": "task-32929",
+        "title": "Clear the cat litter",
+        "description": "Pwissss, it is Smewiiiing"
+      },
+      "task-42859": {
+        "id": "task-42859",
+        "title": "Pet the cat's belly",
+        "description": "The cat needs some attention"
+      }
+    },
+    "columns": {
+      "column-69348": {
+        "id": "column-69348",
+        "title": "To-Do",
+        "taskIds": [
+          "task-43107",
+          "task-50978"
+        ]
+      },
+      "column-82097": {
+        "id": "column-82097",
+        "title": "Doing",
+        "taskIds": [
+          "task-19839"
+        ]
+      },
+      "column-80860": {
+        "id": "column-80860",
+        "title": "Done",
+        "taskIds": [
+          "task-42859"
+        ]
+      },
+      "column-27818": {
+        "id": "column-27818",
+        "title": "Backlog",
+        "taskIds": [
+          "task-32929"
+        ]
+      }
+    },
+    "columnOrder": [
+      "column-27818",
+      "column-69348",
+      "column-82097",
+      "column-80860"
+    ]
+  }
+}
